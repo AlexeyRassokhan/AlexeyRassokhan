@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexeyRassokhan
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me - in DM or in Telegram @alex_rassokhan
